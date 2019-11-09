@@ -1,0 +1,2 @@
+Do you like games. No? Yes? Well it doesnt matter, you should like Packman. However, not just any Packman but t
+his one. Why? Good question. Im not sure myself. What I can say though is that this iteration was built with Java to help me learn OOP principes such as inheritance and how to use threads.
